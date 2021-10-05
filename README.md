@@ -15,6 +15,7 @@ Reference Documents
 Technical Reference Guides
 
 User Manuals-->
+- [How to Start Discord from Opening on Startup](https://docs.google.com/document/d/1jyQn525zMscpMuJrEkeyrOivzHjQm7k9ZC0tIegwLKc/edit#)
 
 ## Informational Materials
 
