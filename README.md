@@ -57,7 +57,7 @@ Facilitator or Instructor Guides
 
 Instructional Animations or Videos
 Webinars (instructional)-->
-Tutorials
+### Tutorials
 - [How to Start Discord from Opening on Startup](https://docs.google.com/document/d/1jyQn525zMscpMuJrEkeyrOivzHjQm7k9ZC0tIegwLKc/edit#)
 
 
